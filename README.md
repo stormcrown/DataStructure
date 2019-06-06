@@ -1,2 +1,2 @@
 # DataStructure
-数据结构与算法，DataStructure And Algorithms
+ 自己学着写些东西
